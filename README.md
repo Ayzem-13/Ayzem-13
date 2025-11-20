@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Languages & Tools
+## Tools
 <p align="left">
   <!-- Déjà existants -->
   <img src="https://skillicons.dev/icons?i=mysql,git,bun,nginx,npm,pnpm,figma,vscode&theme=dark" />
