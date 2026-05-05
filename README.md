@@ -11,8 +11,8 @@
 
 ## Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,typescript,react,symfony&theme=dark" alt="Skill Icons" />
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,tailwindcss,boostrap&theme=dark" alt="Skill Icons"  />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,typescript,elysia,react,symfony&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,tailwindcss,bootstrap&theme=dark" alt="Skill Icons"  />
 </p>
 
 ---
